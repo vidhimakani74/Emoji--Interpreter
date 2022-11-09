@@ -10,7 +10,9 @@ h1 {
   margin: auto;
   padding: 20px 0;
 }
-
+h3 {
+  color: #581c87;
+}
 body {
   background-color: #ede9fe;
 }

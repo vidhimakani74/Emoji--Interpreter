@@ -46,9 +46,9 @@ export default function App() {
       <h2>Select your emoji!</h2>
       <input placeholder="put your emoji here" onChange={emojiInputHandler} />
 
-      <h2>{meaning}</h2>
+      <h3>{meaning}</h3>
 
-      <h3>Emojis We Know</h3>
+      <h4>Emojis We Know</h4>
 
       {list.map((item) => {
         return (
